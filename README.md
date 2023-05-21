@@ -84,7 +84,6 @@ for i in range(0,9):
 ### Original Image
 ![ex9 dip oi](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/d19a9ca7-5c18-42f0-b831-9ca5c42e4933)
 
-
 ### Global Thresholding
 
 ![ex9 dip no2](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/fc2937dd-45e8-4bd9-9086-c0516d7d1579)
@@ -105,7 +104,7 @@ for i in range(0,9):
 
 ### Optimum Global Thesholding using Otsu's Method
 
-
+![ex9 dip otsu1](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/081e1938-20b7-4755-9dbf-cbc558003915)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
