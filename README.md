@@ -101,6 +101,7 @@ for i in range(0,9):
 
 ![ex9 dip adaptive 1](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/035ea372-1a12-4b51-aa5f-72f3af98a876)
 
+![ex9 dip adaptive 2](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/8f73b2bd-1f4e-42e4-88de-8cdc56a6840c)
 
 ### Optimum Global Thesholding using Otsu's Method
 
