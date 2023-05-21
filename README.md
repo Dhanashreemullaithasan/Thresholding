@@ -9,19 +9,24 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Algorithm
 
 ### Step1:
-<br>
+
+Improt the packages.
 
 ### Step2:
-<br>
+
+convert to grayscale.
 
 ### Step3:
-<br>
+
+Use global thresholding techniques.
 
 ### Step4:
-<br>
+
+Use adaptive thresholding and otsu's method.
 
 ### Step5:
-<br>
+
+Display the results using loop.
 
 ## Program
 
@@ -86,9 +91,15 @@ for i in range(0,9):
 
 ![ex9 dip no22](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/181a5acf-b721-4684-ac5b-6615334dd9dd)
 
+![ex9 dip no23](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/bfa6f256-1bbe-4298-8e26-47d562555325)
 
+![ex9 dip no24](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/4aa33ba6-1ffd-42da-acd9-3068531a36b1)
+
+![ex9 dip no25](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/e79a052b-99e4-455a-a32a-b835fa82057c)
 
 ### Adaptive Thresholding
+
+![ex9 dip adaptive 1](https://github.com/Dhanashreemullaithasan/Thresholding/assets/94165415/035ea372-1a12-4b51-aa5f-72f3af98a876)
 
 
 ### Optimum Global Thesholding using Otsu's Method
